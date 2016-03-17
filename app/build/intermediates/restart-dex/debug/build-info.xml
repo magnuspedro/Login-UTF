@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="hdpi"
+    format="5"
+    timestamp="289025075898010" >
+
+    <task
+        name="javac"
+        duration="628" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="198" />
+    <task
+        name="verifier"
+        duration="10" />
+
+    <artifact
+        location="/home/magnus/Documents/AndroidStudioProjects/AutoLogin-UTF2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="289025075898010" >
+        <artifact
+            location="/home/magnus/Documents/AndroidStudioProjects/AutoLogin-UTF2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
